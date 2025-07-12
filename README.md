@@ -43,36 +43,36 @@ Here are some ideas to get you started:
 
 |Project name|Code|Video|
 |------|---|---|
-|Digital twin-based service robot operating system|code link|video link|
-|SLAM based autonomous robot system|code link|video link|
-|Robotic automation process system|code link|video link|
-|Collaborative robot task assistant|code link|video link|
+|디지털 트윈 기반 서비스 로봇 운영 시스템|code link|video link|
+|SLAM기반 자율주행 로봇 시스템 구현|code link|video link|
+|ROS2를 활용한 로봇 자동화 공정 시스템 구현|code link|video link|
+|AI기반 협동 로봇 작업 어시스턴트 구현|code link|video link|
 
 
 ## Career & License🧰
 
-### Genecon Engineering (01/08/21-01/04/23)
-- Tax and Accounting department 
-- Real estate development department 
+### 제네콘 엔지니어링(주) (21/01/08-23/01/04)
+- 회계팀 
+- 부동산 개발팀 
 
-### Meatsupply (11/22/23-06/28/24)
-- sales management department
+### 농업법인회사 미트서플라이 (23/11/22-24/06/28)
+- 영업 관리
 
-### TossPayments(11/28/24-12/22/25)
-- Data Collection department (Deepfake detection)
+### 토스페이먼츠 (24/11/28-24/12/22)
+- 데이터 수집 (Deepfake detection)
 
 ### Acquired
--Computer Specialist in Spreadsheet & Database Level 1
+-컴퓨터 활용 능력 1급
 
--Korean History Proficienty Test Level 1
+-한국사 능력 검정 시험 1급
 
--Driving License Class 2
+-운전 면허 2종 보통
 
 -Opic
 
 
 ## Education📚
 
--Suwon Woman's University(Tax Accounting Department)
+-수원여자대학교 (세무회계과)
 
 -Doosan Robotics Rokey Bootcamp 3rd
