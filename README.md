@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 ### Acquired
 -Computer Specialist in Spreadsheet & Database Level 1
 
--Opic
-
 -Korean History Proficienty Test Level 1
 
 -Driving License Class 2
+
+-Opic
 
 
 ## Education📚
