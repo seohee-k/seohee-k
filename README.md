@@ -1,4 +1,4 @@
-# Hello New World! 👋
+<h1 align="center">Hello New World! 👋</h1>
 
 <!--
 **seohee-k/seohee-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-## My Skiils🌱
+## 🌱My Skiils
 ### Programming Languages
 
 <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">   
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 |AI기반 협동 로봇 작업 어시스턴트 구현|code link|video link|
 
 
-## Career & License🧰
+## 🧰Career & License
 
 ### 제네콘 엔지니어링(주) (21/01/08-23/01/04)
 - 회계팀 
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 -Opic
 
 
-## Education📚
+## 📚Education
 
 -수원여자대학교 (세무회계과)
 
