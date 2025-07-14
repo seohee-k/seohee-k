@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 - 데이터 수집 (Deepfake detection)
 
 ### ALCHERA DS (25/07/14-)
-- 데이터 가공,정제,검수,촬영
+- 데이터 가공, 정제, 검수, 촬영
 
 ### Acquired
 -컴퓨터 활용 능력 1급
