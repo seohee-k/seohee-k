@@ -61,6 +61,9 @@ Here are some ideas to get you started:
 ### 토스페이먼츠 (24/11/28-24/12/22)
 - 데이터 수집 (Deepfake detection)
 
+### ALCHERA DS (25/07/14-)
+- 데이터 가공,정제,검수,촬영
+
 ### Acquired
 -컴퓨터 활용 능력 1급
 
