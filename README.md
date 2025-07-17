@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ### Workspace
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">      <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white">
 
+<br />
 
 ## 👥Projects
 
@@ -48,6 +49,7 @@ Here are some ideas to get you started:
 |ROS2를 활용한 로봇 자동화 공정 시스템 구현|[💻code link](https://github.com/seohee-k/DR_3rd_pj)|[video link](https://youtu.be/BaiFQpTaDvM)|
 |AI기반 협동 로봇 작업 어시스턴트 구현|[💻code link](https://github.com/seohee-k/DR_4th_pj)|[video link]|
 
+<br />
 
 ## 🧰Career & License
 
@@ -73,6 +75,7 @@ Here are some ideas to get you started:
 
 -Opic
 
+<br />
 
 ## 📚Education
 
