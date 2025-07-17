@@ -1,4 +1,4 @@
-1`<h1 align="center">Hello New World! 👋</h1>
+<h1 align="center">Hello New World! 👋</h1>
 
 <!--
 **seohee-k/seohee-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-나
 
 ## 🌱My Skiils
 ### Programming Languages
