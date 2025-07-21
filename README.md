@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 |디지털 트윈 기반 서비스 로봇 운영 시스템|[💻code link](https://github.com/seohee-k/DR_1st_pj)|[video link](https://youtu.be/NIdI5jXuNaE)|
 |SLAM기반 자율주행 로봇 시스템 구현|[💻code link](https://github.com/seohee-k/DR_2nd_pj)|[video link1](https://youtu.be/DPQmq-fCWbw) / [video_link2](https://youtu.be/1NRGb06UWZY)|
 |ROS2를 활용한 로봇 자동화 공정 시스템 구현|[💻code link](https://github.com/seohee-k/DR_3rd_pj)|[video link](https://youtu.be/BaiFQpTaDvM)|
-|AI기반 협동 로봇 작업 어시스턴트 구현|[💻code link](https://github.com/seohee-k/DR_4th_pj)|[video link]|
+|AI기반 협동 로봇 작업 어시스턴트 구현|[💻code link](https://github.com/seohee-k/DR_4th_pj)|[video link](https://youtube.com/shorts/Cr3DkeiRACk)|
 
 <br />
 
