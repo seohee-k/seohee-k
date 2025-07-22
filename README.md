@@ -72,7 +72,6 @@ Here are some ideas to get you started:
 
 -운전 면허 2종 보통
 
--Opic
 
 <br />
 
