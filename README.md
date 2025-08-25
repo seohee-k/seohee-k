@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/ROS2-black?style=for-the-badge&logo=ros&logoColor=#22314E">      <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">       
 
 ### Computer vision(Ai)
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">        <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white">    
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">        <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white">    <img src="https://img.shields.io/badge/LLM-5C3EE8?style=for-the-badge&logo=LLM&logoColor=yellow">
 
 ### Database  
 <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 - 데이터 수집 (Deepfake detection)
 
 ### ALCHERA DS (25/07/14-)
-- 데이터 가공, 정제, 검수, 촬영
+- 데이터 가공, 정제, 검수, 촬영, 벤치마킹 LLM프롬프트 작성
 
 ### Acquired
 -컴퓨터 활용 능력 1급
@@ -71,6 +71,8 @@ Here are some ideas to get you started:
 -한국사 능력 검정 시험 1급
 
 -운전 면허 2종 보통
+
+-Opic 
 
 
 <br />
