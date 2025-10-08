@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### Programming Languages
 
 <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">   
+<img src="https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=C++&logoColor=white">
 
 
   <img src="http://mazandi.herokuapp.com/api?handle={117seohkim}&theme=warm"/>
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
 ### 토스페이먼츠 (24/11/28-24/12/22)
 - 데이터 수집 (Deepfake detection)
 
-### ALCHERA DS (25/07/14-)
+### ALCHERA DS (25/07/14-25/09/12)
 - 데이터 가공, 정제, 검수, 촬영, 벤치마킹 LLM프롬프트 작성
 
 ### Acquired
