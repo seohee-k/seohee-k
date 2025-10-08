@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ## 🌱My Skiils
 ### Programming Languages
 
-<img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">   
-<img src="https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=C++&logoColor=white">
+
 
 
   <img src="http://mazandi.herokuapp.com/api?handle={117seohkim}&theme=warm"/>
