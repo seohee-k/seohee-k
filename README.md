@@ -64,7 +64,9 @@ Here are some ideas to get you started:
 
 ### ALCHERA DS (25/07/14-25/09/12)
 - 데이터 가공, 정제, 검수, 촬영, 벤치마킹 LLM프롬프트 작성
-### BNSotf (25/11/17~)
+### BNSotf (25/11/17-)
+- BAU (test code 자동화) 25/12/29-26/04/27
+- Cotz (Zenoh Pico protocol) 26/04/28-
 
 ### Acquired
 -컴퓨터 활용 능력 1급
