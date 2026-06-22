@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 
 
-  <img src="http://mazandi.herokuapp.com/api?handle={117seohkim}&theme=warm"/>
   
 ### Robotics
 
