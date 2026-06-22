@@ -83,5 +83,6 @@ Here are some ideas to get you started:
 ## 📚Education
 
 -수원여자대학교 (세무회계과)
-
+-한양사이버대학교 (국방융합기술학과)
 -Doosan Robotics Rokey Bootcamp 3rd
+
