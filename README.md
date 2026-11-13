@@ -56,9 +56,6 @@ Here are some ideas to get you started:
 - 회계팀 
 - 부동산 개발팀 
 
-### 농업법인회사 미트서플라이 (23/11/22-24/06/28)
-- 영업 관리
-
 ### 토스페이먼츠 (24/11/28-24/12/22)
 - 데이터 수집 (Deepfake detection)
 
